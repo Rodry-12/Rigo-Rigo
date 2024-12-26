@@ -1,0 +1,15 @@
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\bin\Debug\net6.0\RigoRigo.AccesoDatos.deps.json
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\bin\Debug\net6.0\RigoRigo.AccesoDatos.dll
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\bin\Debug\net6.0\RigoRigo.AccesoDatos.pdb
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\bin\Debug\net6.0\RigoRigo.Model.dll
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\bin\Debug\net6.0\RigoRigo.Model.pdb
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\RigoRigo.AccesoDatos.csproj.AssemblyReference.cache
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\RigoRigo.AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\RigoRigo.AccesoDatos.AssemblyInfoInputs.cache
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\RigoRigo.AccesoDatos.AssemblyInfo.cs
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\RigoRigo.AccesoDatos.csproj.CoreCompileInputs.cache
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\RigoRigo.AccesoDatos.csproj.CopyComplete
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\RigoRigo.AccesoDatos.dll
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\refint\RigoRigo.AccesoDatos.dll
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\RigoRigo.AccesoDatos.pdb
+D:\PERSONAL\RigoRigo\RigoRigoBackendSolucion\RigoRigo.AccesoDatos\obj\Debug\net6.0\ref\RigoRigo.AccesoDatos.dll
